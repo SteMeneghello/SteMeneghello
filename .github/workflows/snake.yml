@@ -2,7 +2,7 @@ name: Snake
 
 on:
   schedule:
-    - cron: '0 * * * *' # Executar a cada hora (opcional)
+    - cron: '0 * * * *' 
 
 jobs:
   build:
