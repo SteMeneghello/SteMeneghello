@@ -2,7 +2,8 @@ name: Snake
 
 on:
   schedule:
-  
+    - cron: '0 * * * *' # Executar a cada hora (opcional)
+
 jobs:
   build:
     runs-on: ubuntu-latest
