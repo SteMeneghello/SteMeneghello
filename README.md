@@ -6,8 +6,8 @@
   <img align="center" alt="Ste-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ste-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ste-GC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" 
-   <img align="center" alt="Ste-SQL" height="40" width="50"
-src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/SQL%20Server.svg" />  
+  <img align="center" alt="Ste-GC" height="40" width="50" 
+src="![image](https://github.com/user-attachments/assets/36f84b25-8b2b-488a-8d78-f6fe73cf1397)" />  
 </div>
 
 ##
