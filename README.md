@@ -6,7 +6,8 @@
   <img align="center" alt="Ste-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ste-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ste-GC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-<link type="image/png" sizes="96x96" rel="icon" href=".../icons8-sql server-external-wanicon-lineal-color-wanicon-96.png"/>
+  <img align="center" alt="Ste-SQL" height="40" width="50" 
+src="https://www.flaticon.com/br/icone-gratis/sql_9544010?term=sql&related_id=9544010"/>
 </div>
 
 ##
