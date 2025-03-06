@@ -7,7 +7,7 @@
   <img align="center" alt="Ste-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ste-GC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Ste-SQL" height="40" width="50" 
-<a href="https://www.flaticon.com/free-icons/sql" title="sql icons">Sql icons created by Freepik - Flaticon</a>"/>
+a href="https://www.flaticon.com/free-icons/sql" title="sql icons"/>
 </div>
 
 ##
