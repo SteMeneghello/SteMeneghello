@@ -7,7 +7,7 @@
   <img align="center" alt="Ste-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ste-GC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Ste-SQL" height="40" width="50" 
-src=".../icons8-sql-external-flaticons-lineal-color-flat-icons-96.png"/>
+meta name="msapplication-TileImage" content=".../icons8-sql-external-flaticons-lineal-color-flat-icons-144.png"/>
 </div>
 
 ##
