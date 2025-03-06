@@ -7,7 +7,7 @@
   <img align="center" alt="Ste-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ste-GC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" 
   <img align="center" alt="Ste-SQL" height="40" width="50" 
-<link type="image/png" sizes="16x16" rel="icon" href=".../icons8-sql-external-flaticons-lineal-color-flat-icons-16.png"> />  
+src=".../icons8-sql-external-flaticons-lineal-color-flat-icons-96.png" />  
 </div>
 
 ##
