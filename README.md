@@ -2,7 +2,7 @@
 
 Na reta final da minha graduação em **Informática para Negócios**, focada em otimização de processos e desenvolvimento de ferramentas inteligentes.
 
-<div style="border-top: 1px solid #e1e4e8; margin: 20px 0;"></div>
+<hr>
 
 ### 🛠️ Toolbox
 
@@ -13,7 +13,7 @@ Na reta final da minha graduação em **Informática para Negócios**, focada em
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 ![API](https://img.shields.io/badge/API-REST-%230055ff.svg?style=flat&logo=api&logoColor=white)
 
-<div style="border-top: 1px solid #e1e4e8; margin: 20px 0;"></div>
+<hr>
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanymeneghello/)
