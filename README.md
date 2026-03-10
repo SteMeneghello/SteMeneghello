@@ -2,8 +2,6 @@
 
 Na reta final da minha graduação em **Informática para Negócios**, focada em otimização de processos e desenvolvimento de ferramentas inteligentes.
 
-<hr>
-
 ### 🛠️ Toolbox
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
