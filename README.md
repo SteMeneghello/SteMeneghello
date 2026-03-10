@@ -1,20 +1,19 @@
- ### 📚 Estudante de Informática para Negócios - 6/6
-     
+# Olá, eu sou a Stefany! 👋
 
- <div style="display: inline_block"><br>
-  <img align="center" alt="Ste-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ste-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ste-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ste-GC" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
- <a href="https://www.flaticon.com/free-icon/sql_9544010" title="SQL Icon">
-  <img src="https://cdn-icons-png.flaticon.com/128/9544/9544010.png" alt="SQL Icon" width="50" height="50">
-</a>
+Na reta final da minha graduação em **Informática para Negócios**, focada em otimização de processos e desenvolvimento de ferramentas inteligentes.
 
-  
-</div>
+---
 
-##
+### 🛠️ Toolbox
 
- <div> 
-  <a href="https://www.linkedin.com/in/stefanymeneghello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
+![API](https://img.shields.io/badge/API-REST-%230055ff.svg?style=flat&logo=api&logoColor=white)
+
+---
+
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanymeneghello/)
