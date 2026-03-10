@@ -2,6 +2,8 @@
 
 Na reta final da minha graduação em **Informática para Negócios**, focada em otimização de processos e desenvolvimento de ferramentas inteligentes.
 
+<div style="border-top: 1px solid #e1e4e8; margin: 20px 0;"></div>
+
 ### 🛠️ Toolbox
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -10,6 +12,8 @@ Na reta final da minha graduação em **Informática para Negócios**, focada em
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
 ![API](https://img.shields.io/badge/API-REST-%230055ff.svg?style=flat&logo=api&logoColor=white)
+
+<div style="border-top: 1px solid #e1e4e8; margin: 20px 0;"></div>
 
 ### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanymeneghello/)
