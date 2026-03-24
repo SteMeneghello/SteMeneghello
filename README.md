@@ -1,4 +1,4 @@
-## Olá, eu sou a Stefany! 👋
+## Olá, eu sou a Stefany!👋🏻
 
 Na reta final da minha graduação em **Informática para Negócios**, focada em otimização de processos e desenvolvimento de ferramentas inteligentes. Uno a empatia do atendimento direto à visão técnica com SQL e APIs.
 
