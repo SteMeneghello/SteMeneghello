@@ -1,5 +1,5 @@
 🎓 Pós-graduanda em Engenharia de Software com formação em Informática para Negócios. <br>
-💡 Focada em otimização de processos, integrações, APIs e Qualidade de Software, <br>
+💡 Focada em otimização de processos, jornada do cliente, integrações e APIs, <br>
 transformando regras de negócios em soluções tecnológicas eficientes.
 
 ### Toolbox
