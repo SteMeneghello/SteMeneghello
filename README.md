@@ -13,12 +13,7 @@
   Transformando regras de negócios em soluções tecnológicas eficientes.
 
   ---
-
- <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SteMeneghello&layout=compact&theme=radical" width="35%" />
- </div>
-
----
-
+  
 ### 🧰 Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
