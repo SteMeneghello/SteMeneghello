@@ -45,8 +45,8 @@
     <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/Make.png" alt="Make" height="20">&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/RD_Station.png" alt="RD Station" height="20">&nbsp;&nbsp;
     <br><br>
-    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/typebot.webp" alt="Typebot" height="35">&nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/WhatsApp.png" alt="WhatsApp" height="43">&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/typebot.webp" alt="Typebot" height="33">&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/WhatsApp.png" alt="WhatsApp" height="45">&nbsp;&nbsp;
   </td>
   </tr>
 </table>
