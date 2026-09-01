@@ -41,9 +41,9 @@
    <td width="50%" valign="top" align="center">
     <h3>Automação & Integrações</h3>
     <br>
-    <img src="https://github.com/SteMeneghello/SteMeneghello/blob/main/N8n.png?raw=true" alt="n8n" height="22">&nbsp;&nbsp;
-    <img src="https://github.com/SteMeneghello/SteMeneghello/blob/main/Make.png?raw=true" alt="Make" height="22">&nbsp;&nbsp;
-    <img src="https://github.com/SteMeneghello/SteMeneghello/blob/main/RD_Station.png?raw=true" alt="RD Station" height="22">
+    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/N8n.png" alt="n8n" height="20">&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/Make.png" alt="Make" height="20">&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/RD_Station.png" alt="RD Station" height="20">&nbsp;&nbsp;
     <br><br>
     <img src="https://img.shields.io/badge/Typebot-2D2D2D?style=for-the-badge&logo=bot&logoColor=0042DA" alt="Typebot">
     <img src="https://img.shields.io/badge/WhatsApp-2D2D2D?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
