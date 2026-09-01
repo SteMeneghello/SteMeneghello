@@ -38,14 +38,15 @@
       <img src="https://img.shields.io/badge/Postman-2D2D2D?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman">
       <img src="https://img.shields.io/badge/REST_API-2D2D2D?style=for-the-badge&logo=fastapi&logoColor=009688" alt="REST API">
     </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>Automação & Integrações</h3>
-      <br>
-      <img src="https://img.shields.io/badge/n8n-2D2D2D?style=for-the-badge&logo=n8n&logoColor=FF6C37" alt="n8n">
-      <img src="https://img.shields.io/badge/Make-2D2D2D?style=for-the-badge&logo=make&logoColor=9F4BFF" alt="Make">
-      <br><br>
-      <img src="https://img.shields.io/badge/Typebot-2D2D2D?style=for-the-badge&logo=bot&logoColor=0042DA" alt="Typebot">
-      <img src="https://img.shields.io/badge/WhatsApp-2D2D2D?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
-    </td>
+   <td width="50%" valign="top" align="center">
+    <h3>Automação & Integrações</h3>
+    <br>
+    <img src="https://img.shields.io/badge/n8n-2D2D2D?style=for-the-badge&logo=n8n&logoColor=FF6C37" alt="n8n">
+    <img src="https://img.shields.io/badge/Make-2D2D2D?style=for-the-badge&logo=make&logoColor=9F4BFF" alt="Make">
+    <img src="https://github.com/SteMeneghello/SteMeneghello/blob/main/RD_Station.png?raw=true" alt="RD Station" height="22">
+    <br><br>
+    <img src="https://img.shields.io/badge/Typebot-2D2D2D?style=for-the-badge&logo=bot&logoColor=0042DA" alt="Typebot">
+    <img src="https://img.shields.io/badge/WhatsApp-2D2D2D?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+  </td>
   </tr>
 </table>
