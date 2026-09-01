@@ -45,8 +45,8 @@
     <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/Make.png" alt="Make" height="20">&nbsp;&nbsp;
     <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/RD_Station.png" alt="RD Station" height="20">&nbsp;&nbsp;
     <br><br>
-    <img src="https://img.shields.io/badge/Typebot-2D2D2D?style=for-the-badge&logo=bot&logoColor=0042DA" alt="Typebot">
-    <img src="https://img.shields.io/badge/WhatsApp-2D2D2D?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/typebot.webp" alt="Typebot" height="35">&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/SteMeneghello/SteMeneghello/main/assets/WhatsApp.png" alt="WhatsApp" height="43">&nbsp;&nbsp;
   </td>
   </tr>
 </table>
